@@ -1,4 +1,4 @@
-![](docu_images/Freethinkers_edited.png)
+![](docu_images/Freethinkers_edited.PNG)
 
 **In December 2019, there was a cluster of pneumonia cases in China. 
 An investigation led to the discovery that it was caused by a previously 
@@ -6,7 +6,7 @@ unknown virus now named the Corona Virus/ Covid-19. It has been proven to
 excessively target the BAME community due to frequent physical contact and has 
 become pervasive.**
 
-![](docu_images/bb.png)
+![](docu_images/bb.PNG)
 
 Dealing with the unforeseen challenges arisen by the COVID-19, 
 the pandemic has taken a significant toll on people all across the world. 
@@ -56,7 +56,7 @@ The COVID-19 pandemic in South Africa is part of the ongoing pandemic. On 5 Marc
 
 Currently, there are 2,873,163 tests conducted, 471,123 Positive Cases Identified, 297,967 Recovered and 7,497 Deaths. (SA Corona Virus Online Portal, n.d).
 
-![](docu_images/sa.png)
+![](docu_images/sa.PNG)
 
 ##### Predictive Graphs
 
@@ -74,7 +74,7 @@ On 25 February, Algeria laboratory-confirmed its first case of severe acute resp
 
 Currently, there are 29229 Cases, 19592 Recovered and 1186 Deaths In Algeria.(“Covid-19 Algeria”, n.d.)
 
-![](docu_images/al.png)
+![](docu_images/al.PNG)
 
 ##### Predictive Graphs
 
@@ -90,7 +90,7 @@ Predictions for the possible future cases and deaths
 
 Egypt's health ministry announced the first case in the country at Cairo International Airport involving a Chinese national on 14 February. (Egypt Today, 14 February 2020)
 
-![](docu_images/eg.png)
+![](docu_images/eg.PNG)
 
 ##### Predictive Graphs
 
@@ -107,7 +107,7 @@ Predictions for the possible future cases and deaths
 The COVID-19 pandemic reached Kenya on On 13 March, the first case in Kenya, a 27-year-old Kenyan woman who traveled from the US via London, was confirmed. (Daily Nation, 13 March 2020). According to the data we accumulated and scrutinized, we came to the conclusion that the epidemic situation has been proliferating at a rapid pace in Kenya. Moreover, there have been complications in the prevention of the virus as the socio-economic position of the country is not very developed. However, Kenya had endorsed cashless payments in order to prevent the transmission of the virus by banknotes and a partial lockdown had also been imposed. Adding in, despite of the lockdown and the prevention measures, some local residents hold the firm conviction that the virus does not exist and is not more than a mere hoax. This ignorance has led to a major increase in the number of cases, as well. This intimates that. The first case of Kenya was reported in the capital city Nairobi in March. 
 There has been an increase of 18,000 cases since then.
 
-![](docu_images/kn.png)
+![](docu_images/kn.PNG)
 
 ##### Predictive Graphs
 
@@ -125,7 +125,7 @@ The COVID-19 pandemic in Nigeria is part of the worldwide pandemic of coronaviru
 
 Currently, there are 42,208 Confirmed Cases, 22,331 Active Cases, 19,004 Discharged Cases, and 873 Deaths. (covid19.ncdc.gov.ng, n.d.)
 
-![](docu_images/ni.png)
+![](docu_images/ni.PNG)
 
 ##### Predictive Graphs
 
