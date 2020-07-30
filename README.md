@@ -168,11 +168,29 @@ We believe the lack of awareness has resulted to this. Where people have not bee
 
 ![](docu_videos/ind.gif)
 
+---
 
 ### Pakistan
 
+Covid-19's first two cases in Pakistan emerged on 26 February, one reported in Karachi and the other in the capital city Islamabad. By 18th March, all provinces had reported covid cases. The transmission hotspots of the virus were mainly based in Punjab and the Sindh province. The first death of the covid 19 was reported in Sindh on 20th March. By the end of March, a lockdown was imposed in most of the provinces. Talking about the economy, Pakistan had lost Rs 2.5 trillion because of the pandemic and the mango exports were also declined due to the pandemic. The virus has also infected 500 Pakistani healthcare workers. Moreover, 12.3 million to 18.5 million people became jobless due to the pandemic. A total of 5,924 deaths have been reported till now. 
+The recovered cases were a total of 246,131.
+
 ![](docu_videos/pak.gif)
 
+---
+
 ### Italy
+
+The virus was first confirmed to have spread to Itlay on 31 January 2020, when two Chinese tourists in Rome tested positive for the virus.
+
+Three weeks into the lockdown, its effects began to show.
+
+On 1 March, the Council of Ministers approved a declaration to organise the containment of the outbreak. In the declaration, the Italian national territory was divided into three areas
+
+Subsequent to the imposing of the national lockdown, there were protests in some Italian prisons.
+
+The Lombardy region has a higher number of intensive care and resuscitation beds compared to southern Italy; unfortunately, these places are fast running out of hospital beds and facing challenges in the provision of primary care for conditions other than COVID-19, necessitating the transfer of numerous patients to other regions. The situation would probably have been considerably worse if the regions of Southern Italy had the highest number of COVID-19 cases.
+
+These confirm the fact that we are facing a problem.
 
 ![](docu_videos/ita.gif)
