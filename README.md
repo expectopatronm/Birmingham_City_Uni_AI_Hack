@@ -107,7 +107,6 @@ Predictions for the possible future cases and deaths
 The COVID-19 pandemic reached Kenya on On 13 March, the first case in Kenya, a 27-year-old Kenyan woman who traveled from the US via London, was confirmed. (Daily Nation, 13 March 2020). According to the data we accumulated and scrutinized, we came to the conclusion that the epidemic situation has been proliferating at a rapid pace in Kenya. Moreover, there have been complications in the prevention of the virus as the socio-economic position of the country is not very developed. However, Kenya had endorsed cashless payments in order to prevent the transmission of the virus by banknotes and a partial lockdown had also been imposed. Adding in, despite of the lockdown and the prevention measures, some local residents hold the firm conviction that the virus does not exist and is not more than a mere hoax. This ignorance has led to a major increase in the number of cases, as well. This intimates that. The first case of Kenya was reported in the capital city Nairobi in March. 
 There has been an increase of 18,000 cases since then.
 
-
 ![](docu_images/kn.png)
 
 ##### Predictive Graphs
@@ -137,7 +136,6 @@ Predictions for the change in consecutive cases and deaths
 Predictions for the possible future cases and deaths 
 
 ![](docu_images/plots/ni2.jpg)
-
 
 As a epilogue, it appears that all countries that have implemented a lockdown are now struggling to work out an exit strategy. The World Health Organization (WHO) estimates the fatality of up to 190,000 people if containment measures are not taken in Africa. The transmission could reach a number of up to 44 million, if not dealt with efficiently. In addition, the current available medical capacity could possibly be surpassed by the number of cases that demand urgent hospitalization. The insufficient health capacities would be strained.
 
