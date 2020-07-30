@@ -50,7 +50,6 @@ Instead of only relying on past cases to predict future cases, we try to take in
 We proceeded to understand how the change was for the number of reported cases and the number of reported deaths between every consequtive day.
 This trend analysis of **the percentage of change** in cases and the **difference in deaths** between two consequtive days was used as an **additional regressor** to our baseline prediciton model whihc yielded better predictive results to match the validation data.
 
-
 #### South Africa
 
 The COVID-19 pandemic in South Africa is part of the ongoing pandemic. On 5 March 2020,the spread of the virus commenced in South Africa, with the first known patient.The first death to have occurred from the disease was reported on 27 March 2020.
