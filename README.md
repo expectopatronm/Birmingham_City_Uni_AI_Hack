@@ -1,4 +1,4 @@
-![](docu_images/Freethinkers_edited.PNG)
+![](docu_images/Freethinkers_edited.png)
 
 **In December 2019, there was a cluster of pneumonia cases in China. 
 An investigation led to the discovery that it was caused by a previously 
@@ -6,7 +6,7 @@ unknown virus now named the Corona Virus/ Covid-19. It has been proven to
 excessively target the BAME community due to frequent physical contact and has 
 become pervasive.**
 
-![](docu_images/bb.PNG)
+![](docu_images/bb.png)
 
 Dealing with the unforeseen challenges arisen by the COVID-19, 
 the pandemic has taken a significant toll on people all across the world. 
