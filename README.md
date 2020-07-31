@@ -21,7 +21,6 @@ Through this Hack, we aim to use technology to predict the future of the global 
 make the prevention affective.
 
 ## 2nd Place Winner
----
 
 Firstly, we took up the Challenge 2 where required to predict the number of COVID-19 cases and 
 death cases in 5 countries of Africa.
