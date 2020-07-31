@@ -8,7 +8,7 @@ become pervasive.**
 
 ![](docu_images/bb.png)
 
-### 2nd Place Winner
+## 2nd Place Winner
 
 Dealing with the unforeseen challenges arisen by the COVID-19, 
 the pandemic has taken a significant toll on people all across the world. 
