@@ -191,3 +191,7 @@ The Lombardy region has a higher number of intensive care and resuscitation beds
 These confirm the fact that we are facing a problem.
 
 ![](docu_videos/ita.gif)
+
+---
+
+![](docu_images/gp.PNG)
