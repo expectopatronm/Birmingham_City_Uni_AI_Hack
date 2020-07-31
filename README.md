@@ -49,6 +49,8 @@ The Prophet system can usually be used off the shelf for Time Series analysis bu
 Instead of only relying on past cases to predict future cases, we try to take into consideration other factors that might influence of the model's decision to predict future cases.
 We proceeded to understand how the change was for the number of reported cases and the number of reported deaths between every consequtive day.
 This trend analysis of **the percentage of change** in cases and the **difference in deaths** between two consequtive days was used as an **additional regressor** to our baseline prediciton model whihc yielded better predictive results to match the validation data.
+A **seasonality** component of 7 days is included in the analyisis based on the assumption that the number of cases would increase given that Friday, Saturday and Sundays are usually
+hotspots for an increase in interactions among people and therefore a higher possibility of transmission of the Virus.
 
 #### South Africa
 
