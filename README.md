@@ -1,5 +1,7 @@
 ![](docu_images/Freethinkers_edited.png)
 
+https://www.bcu.ac.uk/computing/news-events/ai-hackathon-2020
+
 **In December 2019, there was a cluster of pneumonia cases in China. 
 An investigation led to the discovery that it was caused by a previously 
 unknown virus now named the Corona Virus/ Covid-19. It has been proven to 
